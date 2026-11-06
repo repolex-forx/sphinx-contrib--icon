@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/icon/commit/02dca689ed7edbeffcf953747d6fff03b4c34f56",
       "git:hexsha": "02dca689ed7edbeffcf953747d6fff03b4c34f56",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/icon/commit/d87c24d50d677b1d06bc112043c2038a81f89a70",
